@@ -1,0 +1,13 @@
+<plugin name='rira-table' version='0.1' grailsVersion='2.4 &gt; *'>
+  <author>Omid Tourzan</author>
+  <title>Rira Table Plugin</title>
+  <description>Service and methods to manage table creation and adding or dropping partitions.
+</description>
+  <documentation>http://grails.org/plugin/rira-table</documentation>
+  <type>RiraTableGrailsPlugin</type>
+  <resources>
+    <resource>RiraTableDefaultConfig</resource>
+    <resource>mt.omid.rira.TablePartition</resource>
+    <resource>mt.omid.rira.TableService</resource>
+  </resources>
+</plugin>

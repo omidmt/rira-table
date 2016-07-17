@@ -1,0 +1,17 @@
+.DS_Store
+*.log
+/target
+/web-app
+/out
+/.idea
+.classpath
+.project
+rira.iml
+rira-grailsPlugins.iml
+mergePullChangesConflict.txt
+test/
+res/
+/*.rar
+/*.zip
+/*.sha1
+/archive
